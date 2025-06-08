@@ -1,4 +1,4 @@
-<h2 align="left"> Hey, I'm Sumanth a <b>Coding enthusiast</b> passionate about learning and building across diverse tech stacks</h2>
+<h2 align="left"> Hey, I'm Sumanth a coding enthusiast passionate about learning and building across diverse tech stacks</h2>
 
 ###
 
